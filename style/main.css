@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://www.themebeta.com/files/picture/201701/08/47fdd8c4bfd68c43a9555ebe1528e080.jpeg");
+    background-size: 100%; 
+    background-repeat: no-repeat;
+}
+.container{
+width: 200px;
+height: 250px;
+background-color: lightcyan;
+margin-left: 40%;
+margin-right: 45%;
+text-align: center;
+margin-top: 20%;
+border-radius: 5px;
+}
+p{
+text-align: center;
+}
+img{
+    width: 200px;
+    margin-left: 0%;
+    padding-top: 20%;
+}
+input{
+    margin-top: 10%;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-width: 1px;
+    border-bottom-color: lightseagreen;
+    background-color: lightcyan;
+    text-align: center;
+    font-family: 'Lora', serif;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.signIn{
+    margin-left: 10px;
+    width: 100px;
+    background-color: lightseagreen;
+    border-radius: 5px;
+    font-family: 'Lora', serif;
+}

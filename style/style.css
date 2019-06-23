@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://thedoctorweighsin.com/wp-content/uploads/2018/03/Group-of-doctors-nurses-1000-x-667.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.container{
+    width: 200px;
+    height: 250px;
+    background-color: lightcyan;
+    margin-left: 40%;
+    margin-right: 45%;
+    text-align: center;
+    margin-top: 30%;
+    border-radius: 5px;
+    }
+p{
+text-align: center;
+}
+img{
+    width: 200px;
+    margin-left: 0%;
+    padding-top: 20%;
+}
+input{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Noto Sans', sans-serif;
+}
+.signIn{
+    margin-left: 10px;
+    width: 100px;
+    background-color: rgb(61, 61, 199);
+    color: white;
+    border-radius: 5px;
+    margin-top: 10%;
+    font-family: 'Noto Sans', sans-serif;
+}
+p{
+    font-family: 'Noto Sans', sans-serif;
+}
