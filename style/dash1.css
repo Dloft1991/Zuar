@@ -1,0 +1,26 @@
+body{
+    background-color: lightcyan;
+}
+img{
+    width: 100px;
+}
+#logout{
+    margin-left: 90%;
+}
+#toolbar{
+    width: 100%;
+}
+#controls{
+    margin-left: 10px;
+    margin-top: 5%;
+}
+button{
+    width: 100px;
+    background-color: rgb(61, 61, 199);
+    color: white;
+    border-radius: 5px;
+    font-family: 'Noto Sans', sans-serif;
+}
+.navbar{
+    background-color: white;
+}

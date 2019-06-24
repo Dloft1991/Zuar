@@ -26,6 +26,7 @@ input{
     margin-left: 20%;
     margin-right: 20%;
     font-family: 'Noto Sans', sans-serif;
+    height: 20px;
 }
 .signIn{
     margin-left: 10px;
@@ -38,4 +39,7 @@ input{
 }
 p{
     font-family: 'Noto Sans', sans-serif;
+}
+li{
+    text-decor: none;
 }
