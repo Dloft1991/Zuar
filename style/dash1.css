@@ -23,4 +23,41 @@ button{
 }
 .navbar{
     background-color: white;
+    width: 100%;
 }
+#logo{
+width: 500px;
+}
+#welcome{
+    text-align: center;
+    width: 500px;
+    padding-top: 5%;
+}
+#link{
+   text-align: right;
+   width: 500px;
+}
+
+#plots{
+    width: 200px;
+    height: 200px;
+    margin-left: 7%;
+}
+
+/**/
+
+@media only screen and (max-width: 580px) {
+    #logo{
+        width: 150px;
+        }
+        #welcome{
+            text-align: center;
+            width: 150px;
+            padding-top: 10%;
+        }
+        #link{
+           text-align: left;
+           width: 150px;
+        }
+        
+  }
