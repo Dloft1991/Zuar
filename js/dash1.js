@@ -12,7 +12,7 @@ $(document).ready(function () {
 
     $("#plot1").click(function () {
         $("#manipulate").append(plot1);
-        console.log("testing1");
+        console.log("plot1");
     });
 
     $("#plot2").click(function () {
@@ -22,22 +22,22 @@ $(document).ready(function () {
 
     $("#plot3").click(function () {
         $("#manipulate").append(plot3);
-        console.log("testing1");
+        console.log("plot3");
     });
 
     $("#plot4").click(function () {
         $("#manipulate").append(plot4);
-        console.log("plot2");
+        console.log("plot4");
     });
 
     $("#plot5").click(function () {
         $("#manipulate").append(plot5);
-        console.log("testing1");
+        console.log("plot5");
     });
 
     $("#plot6").click(function () {
         $("#manipulate").append(plot6);
-        console.log("plot2");
+        console.log("plot6");
     });
 
 });
