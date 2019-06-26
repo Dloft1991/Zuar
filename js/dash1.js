@@ -11,32 +11,32 @@ $(document).ready(function () {
 
 
     $("#plot1").click(function () {
-        $("#manipulate").append(plot1);
+        $("#view1").append(plot1);
         console.log("plot1");
     });
 
     $("#plot2").click(function () {
-        $("#manipulate").append(plot2);
+        $("#view2").append(plot2);
         console.log("plot2");
     });
 
     $("#plot3").click(function () {
-        $("#manipulate").append(plot3);
+        $("#view3").append(plot3);
         console.log("plot3");
     });
 
     $("#plot4").click(function () {
-        $("#manipulate").append(plot4);
+        $("#view4").append(plot4);
         console.log("plot4");
     });
 
     $("#plot5").click(function () {
-        $("#manipulate").append(plot5);
+        $("#view5").append(plot5);
         console.log("plot5");
     });
 
     $("#plot6").click(function () {
-        $("#manipulate").append(plot6);
+        $("#view6").append(plot6);
         console.log("plot6");
     });
 
