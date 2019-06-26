@@ -49,6 +49,10 @@ h3{
     .controllers{
         margin-left: 22%;
     }
+    #logo{
+        width: 300px;
+        margin-left: 8%;
+    }
   }
 
 @media only screen and (max-width: 580px) {
@@ -60,5 +64,9 @@ h3{
     }
     .controllers{
         margin-left: 30%;
+    }
+    #logo{
+        width: 300px;
+        margin-left: 8%;
     }
   }
