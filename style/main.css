@@ -43,3 +43,41 @@ input{
     font-family: 'Lora', serif;
 }
 
+
+@media only screen and (max-width: 580px) {
+    body{
+        background-image: url("https://www.xmple.com/wallpaper/gradient-blue-linear-white-2880x5120-c2-00bfff-f5fffa-a-60-f-14.svg");
+        background-size: 100%; 
+        background-repeat: no-repeat; 
+    }
+
+    .container{
+        width: 200px;
+        height: 250px;
+        background-color: lightcyan;
+        margin-left: 35%;
+        margin-right: 35%;
+        text-align: center;
+        margin-top: 30%;
+        border-radius: 5px;
+        }
+    
+  }
+
+  @media only screen and (max-width: 414px) {
+    body{
+        background-image: url("https://www.xmple.com/wallpaper/gradient-blue-linear-white-2880x5120-c2-00bfff-f5fffa-a-60-f-14.svg");
+        background-size: 100%; 
+        background-repeat: no-repeat;
+    }
+    .container{
+        width: 200px;
+        height: 250px;
+        background-color: lightcyan;
+        margin-left: 23%;
+        margin-right: 23%;
+        text-align: center;
+        margin-top: 30%;
+        border-radius: 5px;
+        }
+  }
