@@ -40,6 +40,12 @@ input{
 p{
     font-family: 'Noto Sans', sans-serif;
 }
+.footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: white;
+}
 
 @media only screen and (max-width: 580px) {
     body{
